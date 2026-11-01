@@ -4,7 +4,7 @@
 
 | Member | Area | Use cases |
 |---|---|---|
-| Shrejal | Auth, repositories, collaborators, recycle bin | U1, U2, U9, U11 |
+| Shrejal | Auth, repositories, collaborators, recycle bin | U1, U2, U9, U11 integrate |
 | Arisha | Working copy + commit, history/diff/restore, pull requests | U3, U4, U8 |
 | Aakriti | Branches, merge + conflicts, undo | U5, U6, U7, U10 |
 | Harshini | Setup, schema, React shell, explore, dashboard, commit graph | integration |
